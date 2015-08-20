@@ -30,6 +30,8 @@
     
     _viewArray = [[NSMutableArray alloc] initWithCapacity:1];
     
+    int flag= 5;
+    
     _otherImageView = [[UIImageView alloc] initWithFrame:CGRectZero];
 }
 
