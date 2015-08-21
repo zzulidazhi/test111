@@ -24,6 +24,7 @@
 		F98F22411B6B8F260039DE1B /* 777.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F98F22381B6B8F260039DE1B /* 777.jpg */; };
 		F98F22421B6B8F260039DE1B /* 888.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F98F22391B6B8F260039DE1B /* 888.jpg */; };
 		F98F22431B6B8F260039DE1B /* 999.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F98F223A1B6B8F260039DE1B /* 999.jpg */; };
+		F9CF51651B86491700D9C4C4 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = F9CF51641B86491700D9C4C4 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		F98F22381B6B8F260039DE1B /* 777.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 777.jpg; sourceTree = "<group>"; };
 		F98F22391B6B8F260039DE1B /* 888.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 888.jpg; sourceTree = "<group>"; };
 		F98F223A1B6B8F260039DE1B /* 999.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 999.jpg; sourceTree = "<group>"; };
+		F9CF51631B86491700D9C4C4 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		F9CF51641B86491700D9C4C4 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				F98F22111B6B78D70039DE1B /* ViewController.m */,
 				F97C95181B70FB3500D38E3C /* Student.h */,
 				F97C95191B70FB3500D38E3C /* Student.m */,
+				F9CF51631B86491700D9C4C4 /* Person.h */,
+				F9CF51641B86491700D9C4C4 /* Person.m */,
 				F98F22131B6B78D70039DE1B /* Main.storyboard */,
 				F98F22161B6B78D70039DE1B /* Images.xcassets */,
 				F98F22181B6B78D70039DE1B /* LaunchScreen.xib */,
@@ -270,6 +275,7 @@
 			files = (
 				F98F22121B6B78D70039DE1B /* ViewController.m in Sources */,
 				F98F220F1B6B78D70039DE1B /* AppDelegate.m in Sources */,
+				F9CF51651B86491700D9C4C4 /* Person.m in Sources */,
 				F98F220C1B6B78D70039DE1B /* main.m in Sources */,
 				F97C951A1B70FB3600D38E3C /* Student.m in Sources */,
 			);
